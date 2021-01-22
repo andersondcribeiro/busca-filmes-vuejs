@@ -1,4 +1,7 @@
-# busca-filmes-vue
+# Buscador de filmes com Vue.js e OMDB API
+
+#Vue.js movie search engine with free OMDB API
+
 
 ![Captura de Tela 2021-01-22 às 19 18 49](https://user-images.githubusercontent.com/4931735/105554820-e3433c80-5ce6-11eb-86a7-8aa6daf4fdbc.png)
 ![Captura de Tela 2021-01-22 às 19 19 16](https://user-images.githubusercontent.com/4931735/105554823-e4746980-5ce6-11eb-8589-09a77d16618e.png)
